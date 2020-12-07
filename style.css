@@ -1,0 +1,49 @@
+body {
+	background-color: lightblue;
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-image: url("simon.jpg");
+}
+p {
+	color: navy;
+	font-family: helvetica;
+	padding: 50px, 50px, 50px, 50px;
+}
+p1 {
+	text-align: center;
+	color: navy;
+	font-family: "Times New Roman";
+}
+h2 {
+	font-family: Malgun Gothic Semilight;
+	font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+
+li {
+	float: left;
+}
+
+/*li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+*/
+
+div {
+	width: 900px;
+	border: 5px solid black;
+	padding: 100px;
+	background-color: whitesmoke;
+}
+
